@@ -1,4 +1,4 @@
-#allpackagetermuxscriptbyferz
+      #allpackagetermuxscriptbyferz
       INI ADALAH SCRIPT UNTUNG MENGINSTAL SEMUA PACKAGE TERMUX
 
        _____ _____ ____   _____
