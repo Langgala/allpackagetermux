@@ -1,11 +1,12 @@
-# allpackagetermux
-INI ADALAH SCRIPT UNTUNG MENGINSTAL SEMUA PACKAGE TERMUX
+  # allpackagetermux
+  INI ADALAH SCRIPT UNTUNG MENGINSTAL SEMUA PACKAGE TERMUX
 
 
-CARA DISTALL
-pembaruan pkg
-peningkatan pkg
-pkg install git
-git clone https://github.com/FerzChills/allpackagetermux
-cd allpackagetermux
-bash module.sh
+  CARA DINSTALL
+  pkg update && pkg upgrade
+  pkg install nano
+  pkg install git
+  pkg install python
+  git clone https://github.com/FerzChills/allpackagetermux
+  cd Brutal-Sms
+  bash install.sh
