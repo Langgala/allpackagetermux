@@ -1,4 +1,5 @@
 echo "SCRIPT BY FERZCHILLS"
+echo "Kalian Boleh Recode Scriptnya Dan Cantumkan Author Asli Ya Salam FerzChills"
 sleep 3
 echo -e "\033[1;32mSCRIPT NEW UPDATE VERSION 2\033[0;37m"
 sleep 3
