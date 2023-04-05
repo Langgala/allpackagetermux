@@ -1,5 +1,5 @@
       #allpackagetermuxscriptbyferz
-      INI ADALAH SCRIPT UNTUNG MENGINSTAL SEMUA PACKAGE TERMUX
+      INI ADALAH SCRIPT UNTUK MENGINSTAL SEMUA DATA YANG ADA DI TERMUX
 
        _____ _____ ____   _____
       |  ___| ____|  _ \ |__  /
@@ -11,7 +11,8 @@
       ------------
       pkg update && pkg upgrade
       pkg install bash
+      pkg install python3
       pkg install git
       git clone https://github.com/FerzChills/allpackagetermux
       cd allpackagetermux
-      bash module.sh
+      python3 install.py
